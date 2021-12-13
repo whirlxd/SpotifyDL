@@ -1,0 +1,32 @@
+{
+  "name": "spotify-playlist-dl",
+  "version": "1.0.0",
+  "description": "a simple program to convert spotify playlists to mp3 files",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whirl21/SpotifyDL.git"
+  },
+  "keywords": [
+    "spotify",
+    "downloader",
+    "playlists"
+  ],
+  "author": "Whirl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Whirl21/SpotifyDL/issues"
+  },
+  "homepage": "https://github.com/Whirl21/SpotifyDL#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2",
+    "ytdl-core": "^4.9.1",
+    "ytsr": "^3.5.3"
+  }
+}
