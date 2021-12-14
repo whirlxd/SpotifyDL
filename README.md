@@ -14,6 +14,8 @@
 ```sh
 npm install
 ```
+fill in config.js
+and then run node index.js
 
 ## Usage
 
