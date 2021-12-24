@@ -8,20 +8,16 @@
 </div>
 
 ### 🏠 [Homepage](https://github.com/Whirl21/SpotifyDL#readme)
+## How To Use
+> in order to use this program you need to have nodejs installed on your system , if not then click [here](https://nodejs.org/en/download/) to go to the installation page
+• Clone/Download this repository
+• Navigate to the Cloned/Downloaded folder in your terminal
+• Run the command `npm i`
+• Fill the values in config.js
+• Run the command `npm run dev`
+• Wait for the clean exit
 
-## Install
 
-```sh
-npm install
-```
-fill in config.js
-and then run node index.js
-
-## Usage
-
-```sh
-npm run dev
-```
 
 ## Author
 
